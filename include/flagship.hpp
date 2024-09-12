@@ -1,6 +1,8 @@
 #ifndef FLAGSHIP_HPP
 #define FLAGSHIP_HPP
 
+#include <iostream>
+
 class flagship {
     public:
         flagship(int, int, int, int, int); //Hull, Shield, Attack, Speed, Power Cells
@@ -18,7 +20,7 @@ class flagship {
         int set_attack(int);
         int set_speed(int);
         int set_cell_count(int);
-        
+
     private:
         int hull;
         int shield;
