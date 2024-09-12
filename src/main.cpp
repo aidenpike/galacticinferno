@@ -1,5 +1,11 @@
 #include <iostream>
 
 int main(){
-    std::cout << "It has been a minute\n";
+    /*
+        What will I need?
+            Flagship logic (header and class, include power cells)
+            Equipment card stuff (inFile probably, equipment card header and class)
+            Map work (header and class)
+            Game loop
+    */
 }
