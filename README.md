@@ -30,7 +30,7 @@ Each SE card takes 1 turn to Install. Keep the card flipped over until it is Ins
 You may want to change out your equipment, but you’ve already reached max slots. You can spend a turn to Salvage an SE card, and draw a new one.  
 # Starting Out
 You begin with the following set of cards:
-    • 1 Flagship 
+    • 1 Flagship (2x2 Token)
         ◦ 10/10 Hull
         ◦ 0/0 Shield
         ◦ 1/1 Attack (Ram)
@@ -38,6 +38,8 @@ You begin with the following set of cards:
     • 5 Equipment Cards
         ◦ Have to be Installed before use
     • 5 Power Cells
+
+The map is a 10x12 grid. 
 ## Turn Order
     • Power Cells Replenish
     • Prep – Installation & Targeting
