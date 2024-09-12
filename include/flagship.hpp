@@ -15,11 +15,11 @@ class flagship {
         int get_cell_count();
 
         //Setters
-        int set_hull(int);
-        int set_shield(int);
-        int set_attack(int);
-        int set_speed(int);
-        int set_cell_count(int);
+        void set_hull(int);
+        void set_shield(int);
+        void set_attack(int);
+        void set_speed(int);
+        void set_cell_count(int);
 
     private:
         int m_hull;
