@@ -1,7 +1,7 @@
 #ifndef FLAGSHIP_HPP
 #define FLAGSHIP_HPP
 
-#include <iostream>
+#include "includes.hpp"
 
 class flagship {
     public:
