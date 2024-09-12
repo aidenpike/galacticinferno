@@ -4,6 +4,7 @@ Galactic Inferno is a sci-fi card game that simulates galactic war—mainly on t
 ## Flagship
 Your Flagship is the heart of the battle. If it’s destroyed, you lose the battle. 
 Your Flagship comes with 4 main stats:
+```
     • Hull
         ◦ The “health”
     • Shield
@@ -16,6 +17,7 @@ Your Flagship comes with 4 main stats:
     • Speed
         ◦ How many grid spots are traversed per turn
         ◦ Default 1
+```
 There are 5 SE slots you can fill on your Flagship.
 # Equipment Cards
 ## Ship Equipment (SE)
