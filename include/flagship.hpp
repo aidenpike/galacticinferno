@@ -22,11 +22,11 @@ class flagship {
         int set_cell_count(int);
 
     private:
-        int hull;
-        int shield;
-        int attack;
-        int speed;
-        int power_cells;
+        int m_hull;
+        int m_shield;
+        int m_attack;
+        int m_speed;
+        int m_power_cells;
 };
 
 #endif 
