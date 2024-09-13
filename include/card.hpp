@@ -12,6 +12,9 @@ class card {
         int get_attack();
         int get_speed();
         int get_power_usage();
+
+        void display_card(); 
+
     private:
         std::string m_name;
         int m_shield;
