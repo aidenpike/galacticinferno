@@ -6,6 +6,12 @@
 class card {
     public:
         card(std::string, int, int, int, int); //Name, Shield, Attack, Speed, Power Usage
+
+        std::string get_name();
+        int get_shield();
+        int get_attack();
+        int get_speed();
+        int get_power_usage();
     private:
         std::string m_name;
         int m_shield;
