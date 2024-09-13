@@ -4,6 +4,7 @@
 //Libraries
 #include <iostream>
 #include <array>
+#include <vector>
 
 //Headers
 #include "flagship.hpp"
