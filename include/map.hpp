@@ -8,9 +8,9 @@ class map {
         map();
 
         void display_map();
-        void set_map_value(int, int); 
+        void set_map_value(int, int, char); 
     private:
-        std::array<std::array<char,10>, 12> m_map;
+        std::array<std::array<char,8>, 5> m_map; //Rows then columns
 };
 
 #endif
