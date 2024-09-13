@@ -5,6 +5,8 @@
 #include <iostream>
 #include <array>
 #include <vector>
+#include <fstream>
+#include <sstream>
 
 //Headers
 #include "flagship.hpp"
