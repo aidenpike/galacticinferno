@@ -1,11 +1,15 @@
-#include <iostream>
+#include "..\include\includes.hpp"
 
 int main(){
+    map map;
+
+    map.display_map();
+
     /*
         What will I need?
-            Flagship logic (header and class, include power cells) [DONE]
+            [DONE] Flagship logic (header and class, include power cells) 
             Equipment card stuff (inFile probably, equipment card header and class)
-            Map work (header and class)
+            [DONE] Map work (header and class)
             Game loop
     */
 }
